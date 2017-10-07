@@ -1,8 +1,5 @@
-# FriendlyChat
+# Firebase Web Codelab - Start code
 
-### This is homework2_part2 of EC601
+This folder contains the starting code for the [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
 
-The project is aimed at creating a chatting web application by using firebase platform following the tutorial.
-
-Tutorial URL: https://codelabs.developers.google.com/codelabs/firebase-web/#0
-
+If you'd like to jump directly to the end and see the finished code head to the [web](../web) directory.
