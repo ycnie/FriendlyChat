@@ -1,5 +1,9 @@
 # Firebase Codelab: FriendlyChat
 
+
+### This is a web application built following the steps in tutorial.
+### The source of tutorial is shown as below:
+
 This is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the
 code for Web and Cloud Functions. To get started open the codelab instructions:
 
