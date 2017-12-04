@@ -1,5 +1,5 @@
 # Firebase Codelab: FriendlyChat
-### [Click Here and Chat With Me! ](https://console.firebase.google.com/project/the-first-project-ca04f/overview)
+### [Click Here and Chat With Me! ](https://the-first-project-ca04f.firebaseapp.com/)
 
 
 ### This is a web application built following the steps in tutorial.
