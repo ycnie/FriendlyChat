@@ -12,5 +12,5 @@ The testcases are shown in [TestCaseSheetFriendlyChat.xlsx]()
 * Run an automated test(monkey test)
 * Interpret the results
 
-The report is shown in []
+The report is shown in [Report](FriendlyChat/Test/TestReportFriendlychat.png)
 
