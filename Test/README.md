@@ -8,3 +8,9 @@ This is the test for EC601 Homework2 web application FriendlyChat.
 
 The testcases are shown in [TestCaseSheetFriendlyChat.xlsx]()
 
+### Part 2
+* Run an automated test(monkey test)
+* Interpret the results
+
+The report is shown in []
+
