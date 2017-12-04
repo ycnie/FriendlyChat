@@ -6,11 +6,11 @@ This is the test for EC601 Homework2 web application FriendlyChat.
 * Generate your own test cases.
 * Run your own black box testing
 
-The testcases are shown in [TestCaseSheetFriendlyChat.xlsx]()
+The testcases are shown in ```TestCaseSheetFriendlyChat.xlsx```
 
 ### Part 2
 * Run an automated test(monkey test)
 * Interpret the results
 
-The report is shown in [Report](FriendlyChat/Test/TestReportFriendlychat.png)
+The report is shown in ```TestReportFriendlychat.png```
 
